@@ -93,10 +93,10 @@ python evaluate.py --checkpoint ./checkpoints/model.pt
 
 ## 🎓 Citation
 
-If you use this code or dataset, please cite our paper:
+If you use this code or dataset, please cite our proposed paper:
 
 ```
-Yash Mehta, Prabhat Kumar, Dileep Yadav, "Fog Detection Using Hybrid Deep Learning Models: A Multi-Modal Approach with CNN-LSTM Architectures", SocProS 2025.
+Yash Mehta, Prabhat Kumar, Dileep Yadav, "Fog Detection Using Hybrid Deep Learning Models: A Multi-Modal Approach with CNN-LSTM Architectures", IEEE.
 ```
 
 ## 📄 License
